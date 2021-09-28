@@ -31,7 +31,5 @@ jobs:
       - name: test with Python
         run: |
           make test
-      - name: Format Code
-        run: make format
         
         
